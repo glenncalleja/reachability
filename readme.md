@@ -1,8 +1,6 @@
 Reachability
 ========================================================================
 
-*This is a work-in-progress package. Any contributions and suggestions, especially for a more Pythonic solution are welcome.*
-
 **Reachability** is a Python 3 package which allows you to monitor and observe online reachability, and react to these status changes as necessary.
 
 This is done by periodically pinging the Cloudflare DNS IP (1.1.1.1). Reachability is customisable, so you can change the interval and host to ping as necessary.

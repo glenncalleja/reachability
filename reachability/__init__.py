@@ -1,13 +1,9 @@
-"""A simple Opening hours manager which allows you to specify
-the Opening Hours in a simple way, and display them in
-a human-friendly readable way.
-
-Also provides a way to check if a certain time falls inside the
-specified Opening Hours.
+"""Reachability is a Python 3 package which allows you to monitor and observe online reachability,
+and react to these status changes as necessary.
 """
 
-__version__ = "0.0.5"
-__appname__ = "human_friendly_opening_hours"
+__version__ = "0.1.1"
+__appname__ = "reachability"
 __author__ = "Glenn Calleja Frendo <glenncal@gmail.com>"
 __licence__ = "AGPLv3"
 
