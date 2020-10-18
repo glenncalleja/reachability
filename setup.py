@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="reachability",
-    version="0.1.1",
+    version="0.1.2",
     author="Glenn Calleja Frendo",
     author_email="glenncal@gmail.com",
-    description="A Python 3 package which allows you to monitor and observe online reachability, and react to these status changes as necessary.",
+    description="Monitor and observe Online Reachability, and react to status changes as necessary.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/glenncalleja/reachability",
