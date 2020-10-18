@@ -5,6 +5,17 @@ Reachability
 
 This is done by periodically pinging the Cloudflare DNS IP (1.1.1.1). Reachability is customisable, so you can change the interval and host to ping as necessary.
 
+Installation
+=====================================================
+
+You can install Reachability from [PyPI](https://pypi.org/project/reachability/)
+```shell
+pip install reachability
+```
+
+How to use
+=====================================================
+
 To start with, we can easily check the current status from an instance of the reachability class:
 
 ```python
