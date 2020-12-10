@@ -2,7 +2,7 @@
 and react to these status changes as necessary.
 """
 
-__version__ = "0.1."
+__version__ = "0.1.4"
 __appname__ = "reachability"
 __author__ = "Glenn Calleja Frendo <glenncal@gmail.com>"
 __licence__ = "AGPLv3"

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="reachability",
-    version="0.1.2",
+    version="0.1.4",
     author="Glenn Calleja Frendo",
     author_email="glenncal@gmail.com",
     description="Monitor and observe Online Reachability, and react to status changes as necessary.",
